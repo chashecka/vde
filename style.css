@@ -1,0 +1,38 @@
+img {
+  width: 120px;
+  height: 100px;
+  padding: 10px;
+}
+
+body{
+    background-color: rgb(226, 226, 226);
+}
+
+header{
+    background-color: white;
+}
+
+h1{
+    font-family: 'Segocolor: black;e UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+p{
+    color: rgb(80, 80, 80);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+p:hover{
+    color: black;
+}
+
+a{
+    color: rgb(80, 80, 80);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+a:hover{
+    color: black;
+}
